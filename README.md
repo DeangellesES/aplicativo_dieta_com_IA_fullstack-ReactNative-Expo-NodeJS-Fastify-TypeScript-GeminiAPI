@@ -26,12 +26,12 @@
 <h2>⚙️ Detalhes Técnicos</h2>
 <ul>
   <li>construido com expo</li>
-  <li>json-server para subir API fake</li>
-  <li>items renderizado na tela com fetch na API fake</li>
-  <li>statusBarHeight para calcular melhor distância no top de acordo com cada modelo de celular</li>
-  <li>configurado para ser desonvolvido com tailwindCSS</li>
-  <li>Feather, Ionicons de expo/vector-icons para icones usados </li>
+  <li>backend com node.js utilizando Fastify na criação da API</li>
+  <li>App escrito com typescript</li>
+  <li>utilizando a API do gemini para obter os dados das dietas específicas</li>
+  <li>estilização com StyleSheet.create</li>
+  <li>axios para consumir a API criada</li>
   <li>tipagem com typescript</li>
-  <li>hooks useState e useEffect</li>
+  <li>variáveis para cores separada em pasta</li>
 </ul>
 
