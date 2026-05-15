@@ -1,7 +1,7 @@
 <h1>Projeto: Aplicativo de Dietas</h1>
 
 <h2>📌 Sobre o Projeto</h2>
-<p>Projeto de um aplicativo que gera dieta de acordo com as informações fornecidas pelo usuário utilizando a API da IA Gemini para gerar a dieta personalizada de acordo com o perfil do usuário. Aplicativo desenvolvido durante um curso de React-Native Full-Stack.</p>
+<p>Projeto de um aplicativo que gera dietas completas e específicas de acordo com as informações fornecidas pelo usuário utilizando a API da IA Gemini para gerar a dieta personalizada de acordo com o perfil do usuário. Aplicativo desenvolvido durante um curso de React-Native Full-Stack.</p>
 
 <h2>🚀 Tecnologias Utilizadas</h2>
 <ul>
