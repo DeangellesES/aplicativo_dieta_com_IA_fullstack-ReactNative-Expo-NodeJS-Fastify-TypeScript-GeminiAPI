@@ -11,8 +11,8 @@
 
 <h2>✨ Funcionalidades</h2>
 <ul>
-  <li>Aplicativo para entregas de comidas</li>
-  <li>Pedir comida</li>
+  <li>Aplicativo gera dietas específicas para perfis de usuários</li>
+  <li>Dietas baseadas nas informações fornecidas</li>
 </ul>
 <br>
 <br>
