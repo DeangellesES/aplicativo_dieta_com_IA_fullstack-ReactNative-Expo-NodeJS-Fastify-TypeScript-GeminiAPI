@@ -18,7 +18,7 @@
 <br>
 <div align="center">
   <h2 align="center">Tela do Aplicativo</h2>
-  <img src="https://github.com/DeangellesES/aplicativo_dieta_com_IA_fullstack-ReactNative-Expo-NodeJS-Fastify-TypeScript-GeminiAPI/blob/main/app-dieta.png" width="300"/>
+  <img src="https://github.com/DeangellesES/aplicativo_dieta_com_IA_fullstack-ReactNative-Expo-NodeJS-Fastify-TypeScript-GeminiAPI/blob/main/appdieta.png" width="300"/>
 </div>
 <br><br><br>
 
