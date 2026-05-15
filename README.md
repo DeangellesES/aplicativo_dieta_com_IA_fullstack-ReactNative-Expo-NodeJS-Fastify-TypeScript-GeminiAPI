@@ -33,5 +33,7 @@
   <li>axios para consumir a API criada</li>
   <li>tipagem com typescript</li>
   <li>variáveis para cores separada em pasta</li>
+  <li>Feather, Ionicons de expo/vector-icons para icones usados</li>
+  <li>biblioteca zod para mensagens para inputs obrigatorios</li>
 </ul>
 
